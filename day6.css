@@ -1,0 +1,293 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+.header ul{
+    display: flex;
+    font-style: 25px;
+    list-style: none;
+    font-size: 23px;
+    gap: 50px;
+}
+.header span{
+    color: #11BCC7;
+}
+
+.header button{
+background-color:#11BCC7 ;
+width: 100px;
+height: 45px;
+}
+.nav{
+    background-color: #11BCC7;
+    height: 2600px;
+   
+}
+.nav-p{
+    margin-top:30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav3{
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+    padding-bottom: -50px;
+    position: relative;
+    top: -70px;
+    right: -30px;
+    margin-top: 50px;
+
+   
+}
+.nav1{
+    text-align: center;
+    margin-top: 90px;
+    margin-left: 75px;
+}
+.nav1 h1{
+    width: 410px;
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+.nav1 p{
+    width: 300px;
+    text-align: left;
+    margin-top: 15px;
+    color: white;
+    margin-left: 60px;
+}
+.nav2{
+    background-color: white;
+    width: 360px;
+    height: 360px;
+    border-radius: 80%;
+    margin-top: 15px;
+    margin-right: 90px;
+}
+.nav2 img{
+    margin-bottom: 90px;
+    height: 350px;
+    padding-left: 15px;
+    
+}
+.main{
+    background-color: white;
+    height: 300px;
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: 200px;
+    border-radius: 9px;
+}
+.main p{
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 12px;
+    color: orange;
+    font-size: 18px;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.main1 h2{
+    padding-left: 50px;
+    margin-top: 40px;
+    font-size: 25px;
+    color: #11BCC7;
+
+
+}
+.main1 ul{
+    padding-top: 10px;
+     padding-left: 50px;
+    display: flex;
+    padding-right: 150px;
+    font-size: 20px;
+    padding-top: 40px;
+
+    gap: 90px;
+    list-style: none;
+}
+.main1 button{
+ background-color:orange ;
+width: 120px;
+height: 35px;
+border: none;
+border-radius: 5px;
+margin-right: 50px;
+
+}
+.icon-1{
+    display: flex;
+    gap: 30px;
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+
+.text1 h1{
+    font-size: 30px;
+}
+.text1 p{
+    color: grey;
+}
+.icon-1 i{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: orange;
+}
+.icons{
+    display: flex;
+}
+.button1{
+    background-color:#11BCC7 ;
+width: 150px;
+height: 45px;
+border: none;
+margin-left: 805px;
+margin-top: 12PX;
+padding: 10px;
+border-radius: 5px;
+
+}
+
+.text-p{
+    text-align: center;
+    color: orange;
+    margin-top: 150px;
+    font-size: 40px;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+  }
+ .section img{
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+  }
+ .text-top{
+    margin-top: 90px;
+    color: white;
+  }
+
+.text-nav{
+    display: flex;
+    gap: 90px;
+    color: white;
+    margin-top: 20px;
+  }
+.text-paragraf {
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    width: 300px;
+
+  }
+.text-next{
+    display: flex;
+    
+  
+}
+.text-next img{
+margin-right: 80px;
+}
+  
+.text-left{
+    margin-top: 150px;
+    color: white;
+    margin-left: 50px;
+  }
+.text-left p{
+    margin-top: 50px;
+}
+.main-box1{
+    width: 200px;
+    height:200px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.main-box1 img{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.main-box1 h4{
+    color: orange;
+    margin-left: 50px;
+}
+
+.main-box1 p{
+    width: 180px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.main-text{
+    display: flex;
+    gap: 20px;
+    margin-top: 170px;
+}
+.main-3{
+    display: flex;
+    gap: 70px;
+    
+}
+.main-img img{
+    margin-top: 100px;
+}
+.text-4{
+    display: flex;
+    justify-content: space-between;
+}
+.text-4 h1{
+color: orange;
+margin-left: 600px;
+margin-top: 10px;
+}
+.text-4 h4{
+    
+    color: black;
+    margin-left: 20px;
+    
+    }
+.text-4 p{
+    width: 400px;
+    text-align: left;
+    margin-left: 20px;  
+    margin-top: 10px; 
+    text-align: left;
+}
+.text-4 img{
+    
+    height: 300px;
+    width: 300px;
+    
+}
+
+
+.qeybtah{
+    display: flex;
+}
+            
+        
+    
+
